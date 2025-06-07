@@ -1,10 +1,12 @@
 * {
     background-color: #c8c2bc;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    box-sizing: border-box;
 }
 
 .index {
-color: #463804;
+color: black;
 width: 60%;
 padding: 20px;
 border: 5px solid sienna;
@@ -22,7 +24,7 @@ background-color: #9a9391;
 }
 
 .index li,
-a
+.index a
 {
 width: 100%;
 padding: 10px;
@@ -36,4 +38,36 @@ li {
 
 a{
     color: rgb(37, 113, 161);
+}
+
+.recette {
+    width: 80%;
+    margin: auto;
+}
+
+h1, h2 {
+    background-color: #9a9391;
+    text-align: center; 
+}
+
+h2 {
+    width: 90%;
+    margin: auto;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+.card {
+    margin-left: 7%;
+    margin-bottom: 30px;
+}
+
+.homelink {
+    background-color: #c8c2bc;
+    padding: 50px 0px 30px 20px;
+    
 }
