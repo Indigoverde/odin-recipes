@@ -4,6 +4,36 @@
 }
 
 .index {
-color: red;
+color: #463804;
+width: 60%;
+padding: 20px;
+border: 5px solid sienna;
+margin : 20px auto;
+background-color: #9a9391;
+}
 
+.index h1 {
+    background-color: #9a9391;
+    text-align: center;
+}
+
+.index ul {
+ background-color: #9a9391; 
+}
+
+.index li,
+a
+{
+width: 100%;
+padding: 10px;
+background-color: #9a9391;
+}
+
+li {
+    width: 100%;
+    font-size: 18px;
+}
+
+a{
+    color: rgb(37, 113, 161);
 }
