@@ -45,6 +45,11 @@ a{
     margin: auto;
 }
 
+.recette.intro {
+    text-align: center;
+    padding : 20px;
+}
+
 h1, h2 {
     background-color: #9a9391;
     text-align: center; 
